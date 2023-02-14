@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Hind Vadodara', sans-serif;
+}
+h1, h2, h3, h4, h5 {
+  color: #FB8204;
+}
+
+body {
+  background-color: #00000C;
+  color: #FFFFFF;
+}
+
+header {
+  padding-top: 10px ;
+  display: flex;
+  justify-content: center;
+}
+
+header .logo {
+  width: 80%;
+}
+
+.container-01 {
+  margin: 20px;
+}
+
+.container-01 section {
+  margin-top: 18px;
+}
+
+.container-01 .img img {
+  width: 100%;
+  margin-top: 18px;
+}
+
+.container-btn {
+  display: flex;
+  gap: 20px;
+}
+
+.download-btn {
+  background-color: #FFFFFF;
+  width: 35%;
+  max-height: 50px;
+  border-radius: 5px;
+}
